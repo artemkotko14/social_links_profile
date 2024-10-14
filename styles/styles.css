@@ -86,7 +86,7 @@ body {
 }
 .card {
   max-width: 24rem;
-  background-color: var(--clr-gray-800);
+  background-color: blue;
   border-radius: 10px;
   padding: 2.5rem 2rem;
   font-family: var(--ff);
